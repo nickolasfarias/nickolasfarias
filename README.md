@@ -17,5 +17,5 @@ My main languages ​​are JavaScript and Ruby on Rails. I love collaborative e
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nickolasfarias&show_icons=true&locale=en&layout=compact" alt="nickolasfarias" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nickolasfarias&show_icons=true&locale=en" alt="nickolasfarias" /></p>
+
 
