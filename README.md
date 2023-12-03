@@ -3,7 +3,7 @@
 - 👀 I'm a full stack web developer passionate about everything that involves the universe of technology. 
 My main languages ​​are JavaScript and Ruby on Rails. I love collaborative environments and teamwork.
 
-- 🌱 I am currently deepening my knowledge in React, Node.js, Ruby on Rails and SQL. I decided to change careers in 2019 and since then I've been studying and learning new things everyday.
+- 🌱 I am currently deepening my knowledge in React, Node.js, Ruby on Rails and SQL.
 - 📍 Located in Rio de Janeiro, Brasil.
 - 📫 How to reach me **nickolasfarias@gmail.com**
 
