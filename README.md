@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nickolas.</h1>
 
 - 👀 I'm a Software Engineer passionate about everything that involves the universe of technology. 
-My main languages ​​are Ruby on Rails and JavaScript. I love collaborative environments and teamwork.
+My main stack ​​is Ruby on Rails and JavaScript. I love collaborative environments and teamwork.
 
 - 🌱 I am currently deepening my knowledge in Ruby on Rails.
 - 📍 Located in Rio de Janeiro, Brasil.
