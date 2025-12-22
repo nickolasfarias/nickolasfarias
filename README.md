@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Nickolas.</h1>
 
-- 👀 I'm a Software Engineer passionate about everything that involves the universe of technology. 
-My main stack ​​is Ruby on Rails and JavaScript. I love collaborative environments and teamwork.
+-👨‍💻 Software Engineer specialized in Ruby on Rails, building scalable backend systems, APIs, and async pipelines (Sidekiq/Redis) with strong focus on performance and reliability.
 
-- 🌱 I am currently deepening my knowledge in Ruby on Rails.
-- 📍 Located in Rio de Janeiro, Brasil.
-- 📫 How to reach me **nickolasfarias@gmail.com**
+-🧠 Currently deepening expertise in Rails architecture, scalability, and observability.
+
+-📍 Based in Rio de Janeiro, Brazil.
+ 
+-📫 Reach me at nickolasfarias@gmail.com
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
