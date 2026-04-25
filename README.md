@@ -8,9 +8,9 @@
 
 - 📫 Reach me at nickolasfarias@gmail.com
 
-<h3 align="left">Connect with me:</h3>
+<h3 style="display: none" align="left">Connect with me:</h3>
 
-<a href="https://www.linkedin.com/in/nickolas-farias/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nickolas farias" height="30" width="40" /></a>
+<a style="display: none" href="https://www.linkedin.com/in/nickolas-farias/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nickolas farias" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 
